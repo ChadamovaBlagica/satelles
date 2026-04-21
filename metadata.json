@@ -1,0 +1,5 @@
+{
+  "name": "SATELLES — Space Powered Water Intelligence",
+  "description": "A predictive water management platform using Copernicus satellite data to monitor flood, drought, and pollution risks across Europe.",
+  "requestFramePermissions": ["geolocation"]
+}
